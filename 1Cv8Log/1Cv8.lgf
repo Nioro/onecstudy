@@ -40,4 +40,7 @@
 {4,"_$Data$_.Post",17},
 {4,"_$Data$_.Unpost",18},
 {4,"_$PerformError$_",19},
-{4,"_$Transaction$_.Rollback",20}
+{4,"_$Transaction$_.Rollback",20},
+{2,"PC",2},
+{13,2,1},
+{5,a3ead683-2f55-432c-8ade-837b75adfe6a,"Документ.РасходнаяНакладная",10}
